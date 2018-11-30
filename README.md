@@ -1,5 +1,7 @@
 # react-native-table
 #### 一个简单的表格组件，可以固定头部和左侧
+#### 预览
+![react-native-table-ios](./table.gif)
 #### 使用
 ```js
 import React, { Component } from 'react';
